@@ -3,7 +3,7 @@
     <string name="popular_movies">Popular Movies</string>
     <string name="there_was_an_error_please_try_again">There was an error,please try again</string>
     <string name="retry">Retry</string>
-    <string name="api_key">1b46b805e18cb3321010b0166482a153</string>
+    <string name="api_key">1b46f9b805e19f8cb3321010b0166482a153</string>
     <string name="posterImageLink">https://image.tmdb.org/t/p/w780%1$s</string>
     <string name="image_description">this is image</string>
     <string name="title">Overview</string>
